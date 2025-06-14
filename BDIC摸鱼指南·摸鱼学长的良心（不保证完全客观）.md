@@ -73,11 +73,11 @@ ps：个人建议，**尽量还是不要去**（主观判断），在ucd的大�
 导师：Dr. [Arjun Pakrashi](https://people.ucd.ie/arjun.pakrashi/about "https://people.ucd.ie/arjun.pakrashi/about")
 书籍： “ I am following this book: [https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics-ebook/dp/B084V7ZJ5Z?ref_=ast_author_dp](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics-ebook/dp/B084V7ZJ5Z?ref_=ast_author_dp "https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics-ebook/dp/B084V7ZJ5Z?ref_=ast_author_dp") you can read it, as it is a great book to start with covering the different ideas and algorithms in detail but easier to read.”
 
-| 项目               | 分值                 |
-| ---------------- | ------------------ |
+| 项目                 | 分值                              |
+| -------------------- | --------------------------------- |
 | Assigement(自选题目) | 25%（给分不会高（除非非常厉害的） |
-| Quiz* 5          | 25% （Csmodle）      |
-| Exam             | 50% （梯度下降，计算）      |
+| Quiz* 5              | 25% （Csmodle）                   |
+| Exam                 | 50% （梯度下降，计算）            |
 
 课程评价：老师很喜欢C，非常喜欢，如果项目做的很好的话，就会到了C+，且机器学习的讲法有点像“西瓜书”，机器学习还有一种含义**就是把学生变成机器，去学习**。以及本节课是唯一可能大四会挂的课，以及跟老师最好用邮件交流。
 
@@ -85,9 +85,9 @@ ps：个人建议，**尽量还是不要去**（主观判断），在ucd的大�
 
 导师： [soumyabrata.dev](https://people.ucd.ie/soumyabrata.dev)
 
-| 项目    | 分   |
+| 项目  | 分  |
 | ----- | --- |
-| 考试    | 50% |
+| 考试  | 50% |
 | Essay | 50% |
 
 课程评价： 老师人很好，考试并不是特别难，会比较基础（但ppt真的很多）（我记得2025考了CMYK都是啥）。也许大概率，老师会允许教师空空的，如果essay写的好，老师可能会邀请你去投会议。Essay是四个人组队的。
@@ -136,6 +136,18 @@ ass一个难一点，一个简单一点，quiz线下，选择，简单
 ### henry 的课 2.0
 背就得了，好消息，ai现在能学懂了。建议先看卷子考什么，再去赌题，这样能够在一天之内学会
 
+
 ### 毕设
 
-导师：
+导师：[catherine.mooney](https://people.ucd.ie/catherine.mooney)
+
+1. 这个课程会分为project 和 research，这两套有不同的评分标准，并且会进行两个版本的正态分布。一般是按照SDG相关的东西，或者 联合国20个目标那种。
+2. 会进行答辩，5min pre+ 5min Q&A，老师会随机问问题。Catherine会问小组合作情况，会与人问SDG，也有问test相关，也有会有人技术相关的。
+3. 答辩每次10%，还有一个平时的分，包括TA给的分，或者材料能不能交齐（一般不扣分）
+4. research：50%的得分都是论文
+5. project： maybe 30%的thesis，maybe 20%的用户体验，跟大四一样，需要部署到ucd服务器。
+6. 每一个组会给TA去辅导，然后一个小组是六个人
+
+需要考虑的：
+1. 找队友，一般留学都会con一个条件，需要找同时有con的线的队友是最好的，这代表着，大家都会努力。
+2. 考虑到我们只有5min pre的时间，是否牺牲项目的大小，去仔仔细细的讲，从而去达到一个好的pre分，或者做的东西很多，5min只能非常快速的将，但是essay的时候能写完。这个也是一个好的问题。（research的部分）

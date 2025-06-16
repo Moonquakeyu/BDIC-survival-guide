@@ -141,7 +141,7 @@ ass一个难一点，一个简单一点，quiz线下，选择，简单
 
 导师：[catherine.mooney](https://people.ucd.ie/catherine.mooney)
 
-1. 这个课程会分为project 和 research，这两套有不同的评分标准，并且会进行两个版本的正态分布。一般是按照SDG相关的东西，或者 联合国20个目标那种。
+1. 这个课程会分为project 和 research，这两套有不同的评分标准，并且会进行两个版本的正态分布（但似乎research并不是正态分布）。一般是按照SDG相关的东西，或者 联合国20个目标那种。
 2. 会进行答辩，5min pre+ 5min Q&A，老师会随机问问题。Catherine会问小组合作情况，会与人问SDG，也有问test相关，也有会有人技术相关的。
 3. 答辩每次10%，还有一个平时的分，包括TA给的分，或者材料能不能交齐（一般不扣分）
 4. research：50%的得分都是论文
